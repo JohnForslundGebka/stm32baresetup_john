@@ -1,0 +1,3 @@
+/Users/John/CLionProjects/clionstm32_2/cmake-build-debug/CMakeFiles/clionstm32_2.elf.dir
+/Users/John/CLionProjects/clionstm32_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/John/CLionProjects/clionstm32_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
